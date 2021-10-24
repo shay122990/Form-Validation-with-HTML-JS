@@ -87,3 +87,16 @@ button:focus {
   justify-content: center;
   color: black;
 }
+
+/* media query for phone screen */
+@media only screen and (max-width: 600px) {
+  .container {
+    width: 90%;
+  }
+  form {
+    width: 80%;
+  }
+  .message-container {
+    width: 80%;
+  }
+}

@@ -10,8 +10,9 @@ If you want to change options of the fields, I suggest to go through the documen
 
 ## Preview
 
-![Initial view](media/image1.gif)
-![Final view](media/image2.gif)
+![Successful](media/image1.gif)
+![Password match](media/image2.gif)
+![Missing field](media/image3.gif)
 
 ## Built With
 
