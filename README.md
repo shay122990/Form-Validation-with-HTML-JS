@@ -1,10 +1,12 @@
 # Form Validation with JS
 
 ## About The Project
+
 This is a frontend sign up/register form validation project. We have different types of input fields and if some or none is complete you'll get a warning indication to fill in the required inputs. This also applies to the password input. Incase your password confirmation password in not matched, you won't be able to register. <br/>
 The email field will need to have the "@" character. Website url field will need to have "url" format. A password will require 8 characters, one capital letter and one number.<br/>
 Once all the fields are filled in and validated with an indication of green outline, you'll be able to register. A message at the bottom will display 'Successfully Registered', else it will display a message that requires the correct input.<br/>
 This project is intended for anyone who wants to learn the methods applied with vanilla JavaScript. Once again, this is a frontend UI, so in the real world you'll be sending your object to your preferred DB.
+If you want to change options of the fields, I suggest to go through the documentation that I have linked below. You can change the length of the password, email format, language and more.
 
 ## Preview
 
@@ -12,8 +14,10 @@ This project is intended for anyone who wants to learn the methods applied with 
 ![Final view](media/image2.gif)
 
 ## Built With
+
 - [HTML forms](https://www.w3schools.com/html/html_forms.asp)
 - [Input Element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input)
+- [Input Attributes](https://www.w3schools.com/html/html_form_attributes.asp)
 - [CSS :valid pseudo class](https://developer.mozilla.org/en-US/docs/Web/CSS/:valid)
 - [Form Validation](https://developer.mozilla.org/en-US/docs/Learn/Forms/Form_validation)
 - [Constraint Validation](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Constraint_validation)
@@ -21,7 +25,6 @@ This project is intended for anyone who wants to learn the methods applied with 
 - [Submit Event](https://developer.mozilla.org/en-US/docs/Web/API/HTMLFormElement/submit_event)
 - [preventDefault()](https://www.w3schools.com/jsref/event_preventdefault.asp)
 - [CSS tricks](https://css-tricks.com/form-validation-part-1-constraint-validation-html/)
-
 
 ## Installation
 
@@ -64,5 +67,3 @@ SOFTWARE.
 ## Contact
 
 shay[dot]asanova[at]gmail[dot]com
-
-
